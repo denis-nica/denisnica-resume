@@ -21,7 +21,7 @@ npm
 
 
 ### Deploy
-Run `bash generate.sh`
+Run `bash deploy.sh`
 
 ### Export as PDF
 
