@@ -19,7 +19,6 @@ This will install Node.js and npm.
 
 ## Steps
 
-- install resume-cli tool (<https://jsonresume.org/getting-started/>)
 - Run `npm install`
 - create JSON schema (<http://registry.jsonresume.org/>) and saved it locally as `resume.json`
 - run `npm run generate-html` for HTML format
