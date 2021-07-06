@@ -1,0 +1,150 @@
+{
+    "meta": { "theme": "elegant" },
+    "basics": {
+        "name": "Denis Alexandru Nica",
+        "label": "Software Engineer",
+        "picture": "profile.jpg",
+        "email": "denis.alex.nica@gmail.com",
+        "phone": "",
+        "website": "https://denisnica.xyz",
+        "summary": "I'm a Backend Web Developer with an interest in efficient and scalable applications. I like working on challenging projects that make me zone out while eating.  I'm generally very flexible when investigating new roles.",
+        "location": {
+            "city": "Cluj-Napoca",
+            "region": "CJ",
+            "countryCode": "RO"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "denis-nica",
+                "url": "https://www.linkedin.com/in/denis-nica/"
+            },
+            {
+                "network": "GitHub",
+                "username": "denis-nica",
+                "url": "https://github.com/denis-nica"
+              }
+        ]
+    },
+    "work": [
+        {
+            "company": "ComplyAdvantage",
+            "position": "Software Engineer",
+            "website": "https://complyadvantage.com/",
+            "startDate": "2018-10-15",
+            "summary": "REST APIs, Microservices, Customers integration, E2E Testing, AWS, Apache Kafka, Apache Flink, Kubernetes, Docker, GitLab CI/CD, MongoDB, MySQL, Redis, Python, RabbitMQ, Flask, Celery, Java",
+            "highlights": [
+                "Developed a Python high throughput system (50+ million items per day) that offers clients daily updates and statistics.",
+                "Contributed to the implementation of new features and fixing bugs for our SaaS platform composed of multiple microservices.",
+                "Major contribution to the design and development of an event-driven synchronization tool using Apache Kafka.",
+                "Reduced cloud costs of our services by 40%."
+            ]
+        },
+        {
+            "company": "Intel Corporation - Movidius",
+            "position": "Software Developer",
+            "website": "https://movidius.github.io/ncsdk/",
+            "startDate": "2017-10-01",
+            "endDate": "2018-09-30",
+            "summary": "Python, Coding Standards, OOP, Concurrency & Parallelism, CI/CD",
+            "highlights": [
+                "Developed Python scripts for CI/CD infrastructure.",
+                "Implemented various Python tools, functionalities & scripts used by the internal teams in order to implement, debug and test features for the VPU."
+            ]
+        },
+        {
+            "company": "Intel Corporation - Movidius",
+            "position": "Internship",
+            "website": "https://movidius.github.io/ncsdk/",
+            "startDate": "2017-07-01",
+            "endDate": "2017-09-30",
+            "summary": "Java, Coding Standards, OOP, Data Structures, Design Patterns",
+            "highlights": [
+                "Developed features for client-facing Java Eclipse plugins."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "West University of Timisoara",
+            "area": "Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2015-10-01",
+            "endDate": "2018-07-08",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "skills": [
+        {
+        
+            "name": "Languages & Software",
+            "keywords": [
+                "Python",
+                "Flask",
+                "Celery",
+                "SQLAlchemy",
+                "PyMongo / MongoEngine",
+                "JavaScript",
+                "AngularJS",
+                "Java"
+            ]
+        },
+        {
+        
+            "name": "OS/Tools",
+            "keywords": [
+                "Linux",
+                "Windows",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "MongoDB",
+                "MySQL",
+                "Git",
+                "GitLab Ci/CD",
+                "Apache Kafka",
+                "Apache Flink",
+                "RabbitMQ",
+                "Redis"
+            ]
+        },
+        {
+        
+            "name": "Process",
+            "keywords": [
+                "Agile",
+                "Scrum",
+                "Jira"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Romanian",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Professional Proficiency"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Software Engineering",
+            "keywords": []
+        },
+        {
+            "name": "Web Development",
+            "keywords": []
+        },
+        {
+            "name": "Distributed Computing",
+            "keywords": []
+        },
+        {
+            "name": "Open-Source Software",
+            "keywords": []
+        }
+    ]
+}
