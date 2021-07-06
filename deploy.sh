@@ -1,10 +1,7 @@
 #!/bin/bash
 
-# json --> html
+# Generate index.html
 npm run generate-html
-
-# http --> https
-sed -i '' -e 's|http://|https://|g' index.html
 
 # push
 git add -u
