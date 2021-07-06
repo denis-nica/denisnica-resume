@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate-html": "resume export index.html --theme eloquent",
+    "generate-pdf": "resume export denis_nica_resume.pdf --theme classy"
   },
   "keywords": [],
   "author": "",
