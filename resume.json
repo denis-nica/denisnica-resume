@@ -7,7 +7,7 @@
         "email": "denis.alex.nica@gmail.com",
         "phone": "",
         "website": "https://denisnica.xyz",
-        "summary": "I'm a Backend Web Developer with an interest in efficient and scalable applications. I like working on challenging projects that make me zone out while eating.  I'm generally very flexible when investigating new roles.",
+        "summary": "I'm a Software Engineer with an interest in efficient and scalable applications. I like working on challenging projects that make me zone out while eating.  I'm generally very flexible when investigating new roles.",
         "location": {
             "city": "Cluj-Napoca",
             "region": "CJ",
@@ -68,7 +68,7 @@
         {
             "institution": "West University of Timisoara",
             "area": "Computer Science",
-            "studyType": "Bachelor",
+            "studyType": "Bachelor Degree",
             "startDate": "2015-10-01",
             "endDate": "2018-07-08",
             "gpa": "",
