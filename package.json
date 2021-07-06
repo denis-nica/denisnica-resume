@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "generate-html": "resume export index.html --theme eloquent",
-    "generate-pdf": "resume export denis_nica_resume.pdf --theme classy"
+    "generate-html": "npx resume export index.html --theme eloquent",
+    "generate-pdf": "npx resume export denis_nica_resume.pdf --theme classy",
+    "deploy": "func() { npm run generate-html && git add -u && git commit -m 'update content' && git push origin main; }; func"
   },
   "keywords": [],
   "author": "",
