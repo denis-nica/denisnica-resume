@@ -2,14 +2,14 @@
 
 # denisnica.xyz
 
-Personal resume created using <https://jsonresume.org/>. It uses `Eloquent` theme.
+Personal resume created using <https://jsonresume.org/>. It uses `Eloquent` theme for the HTML and `Classy` theme for the PDF.
 
 ## Prerequisites
 
 - Node.js
 - npm
 
-I like working with [nvm](https://github.com/nvm-sh/nvm):
+I like working with [nvm](https://github.com/nvm-sh/nvm). Install nvm and then run:
 
 ```bash
 nvm install --lts
@@ -21,13 +21,15 @@ This will install Node.js and npm.
 
 - Run `npm install`
 - create JSON schema (<http://registry.jsonresume.org/>) and saved it locally as `resume.json`
-- run `npm run generate-html` for HTML format
-- run `npm run generate-pdf` for PDF format
+
+## Export as HTML
+
+`npm run generate-html`
+
+## Export as PDF
+
+`npm run generate-pdf`
 
 ## Deploy
 
-Run `bash deploy.sh`
-
-### Export as PDF
-
-Run `npm run generate-pdf`
+`npm run deploy`
