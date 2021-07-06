@@ -32,4 +32,6 @@ This will install Node.js and npm.
 
 ## Deploy
 
+Netlify will deploy when new commits are added to the `main` branch. This script will simply generate the new HTML, commit your changes (without adding new, untracked files) and push to the `main` branch. This is not best practice but this is just a simple resume repo.
+
 `npm run deploy`
