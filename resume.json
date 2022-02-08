@@ -98,6 +98,8 @@
                 "SQLAlchemy",
                 "PyMongo / MongoEngine",
                 "JavaScript",
+                "NodeJS",
+                "Sequelize",
                 "AngularJS",
                 "Java"
             ]
@@ -112,9 +114,11 @@
                 "Docker",
                 "Kubernetes",
                 "MongoDB",
+                "PostgreSQL",
                 "MySQL",
                 "Git",
                 "GitLab Ci/CD",
+                "CricleCI",
                 "Apache Kafka",
                 "Apache Flink",
                 "RabbitMQ",
