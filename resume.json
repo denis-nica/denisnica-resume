@@ -30,7 +30,7 @@
             "company": "Victory Square Partners",
             "position": "Software Engineer",
             "website": "https://www.linkedin.com/company/victorysqpartners",
-            "startDate": "2020-08-15",
+            "startDate": "2021-08-15",
             "summary": "REST APIs, Microservices, E2E Testing, AWS, Kubernetes, Docker, Github Actions, CircleCI, PostgreSQL, NodeJS, ExpressJS, OpenAPI, VueJS",
             "highlights": [
                 "Development of a highly-scalable fullstack service used by both customers and employees.",
@@ -43,7 +43,7 @@
             "position": "Software Engineer",
             "website": "https://complyadvantage.com/",
             "startDate": "2018-10-15",
-            "endDate": "2020-07-31",
+            "endDate": "2021-07-31",
             "summary": "REST APIs, Microservices, Customers integration, E2E Testing, AWS, Apache Kafka, Apache Flink, Kubernetes, Docker, GitLab CI/CD, MongoDB, MySQL, Redis, Python, RabbitMQ, Flask, Celery, Java",
             "highlights": [
                 "Developed a Python high throughput system (50+ million items per day) that offers clients daily updates and statistics.",
